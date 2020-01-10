@@ -1,0 +1,21 @@
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4 to MP3 Converter.csprojAssemblyReference.cache
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4_to_MP3_Converter.Form1.resources
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4_to_MP3_Converter.Properties.Resources.resources
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4 to MP3 Converter.csproj.GenerateResource.cache
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4 to MP3 Converter.exe.manifest
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4 to MP3 Converter.exe
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4 to MP3 Converter.pdb
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\MP4 to MP3 Converter.exe.config
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\MP4 to MP3 Converter.exe.manifest
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\MP4 to MP3 Converter.application
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\MP4 to MP3 Converter.exe
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\MP4 to MP3 Converter.pdb
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\NReco.VideoConverter.xml
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4 to MP3 Converter.application
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4 to MP3 Converter.csproj.CopyComplete
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\obj\Debug\MP4_to_MP3_Converter.SeLeCtRa.resources
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\YoutubeExtractor.dll
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Selectra\Desktop\MP4-to-MP3-Converter-master\bin\Debug\YoutubeExtractor.xml
